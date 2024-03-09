@@ -1,0 +1,17 @@
+{
+    "name": "alvy/tgl-indo",
+    "description": "mengubah tgl ke format indo",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Alvy\\TglIndo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alvyfajri",
+            "email": "alvyfajri@gmail.com"
+        }
+    ],
+    "require": {}
+}
